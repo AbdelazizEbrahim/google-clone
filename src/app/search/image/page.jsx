@@ -7,6 +7,7 @@ const ImagePage = () => {
     <div>
       <SearchHeader/>
       <SearchHeaderOptions/>
+      image serch page
     </div>
   )
 }

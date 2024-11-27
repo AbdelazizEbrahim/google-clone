@@ -1,11 +1,15 @@
-import React from 'react';
+import SearchHeader from '@/components/SearchHeader'
+import SearchHeaderOptions from '@/components/SearchHeaderOptions'
+import React from 'react'
 
-const SearchHeader = () => {
+const SearchPage = () => {
   return (
     <div>
-      <h1>Search Header</h1>
+      <SearchHeader/>
+      <SearchHeaderOptions/>
+      web serch page
     </div>
-  );
-};
+  )
+}
 
-export default SearchHeader;
+export default SearchPage
