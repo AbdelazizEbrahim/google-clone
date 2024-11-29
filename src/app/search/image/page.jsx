@@ -5,8 +5,8 @@ import React from 'react'
 const ImagePage = () => {
   return (
     <div>
-      <SearchHeader/>
-      <SearchHeaderOptions/>
+      {/* <SearchHeader/>
+      <SearchHeaderOptions/> */}
       image serch page
     </div>
   )

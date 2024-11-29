@@ -13,6 +13,7 @@ export default function SearchHeader() {
           <Image
             width="120"
             height="40"
+            alt=""
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/640px-Google_2015_logo.svg.png"
           />
         </Link>
